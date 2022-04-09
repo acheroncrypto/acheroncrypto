@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acheroncrypto
 - 👀 I’m interested in crypto/blockchain
-- 🌱 I’m currently learning Solana ecosystem
+- 🌱 I’m currently into Solana ecosystem
 - 💞️ I’m looking to collaborate on Solana Projects
 - 📫 Contact -> @acheroncrypto on Twitter
 
